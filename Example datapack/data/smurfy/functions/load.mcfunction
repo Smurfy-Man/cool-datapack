@@ -1,0 +1,1 @@
+tellraw @a {"text": "Loading Smurfy Functions...", "color": "green"}
